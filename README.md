@@ -7,10 +7,8 @@ site: https://www.rocketseat.com.br/formacao/react
 
 ## 🚀 Introdução
 
-Visando aprender os conceitos primordiais e atuais do React como gerencimento de estados (useState), formatação de datas com date-fns, componentes, estilos com css module e tudo isso com TypeScript, o módulo ignite voltado para o React me ofereceu conhecimentos para gerar este projeto simples mas completo de feed, simulando uma rede social.
+Visando aprender os conceitos primordiais e atuais do React como gerencimento de estados (useState), formatação de datas com date-fns, componentes, estilos com css module e tudo isso com TypeScript, o módulo ignite voltado para o React me ofereceu conhecimentos para criar este projeto simples mas completo utilizando o vitem, simulando uma rede social.
 
-Utilizei do vite para criar e gerenciar este projeto. Utilizei ainda de
-personagens da Marvel para criação deste projeto. 
 
 ### Requisitos: 
 Vite, utilizado para executar e criar o projeto: https://vitejs.dev/guide/
