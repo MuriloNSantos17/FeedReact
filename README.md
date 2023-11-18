@@ -11,10 +11,10 @@ Visando aprender os conceitos primordiais e atuais do React como gerencimento de
 
 
 ### Requisitos: 
-Vite, utilizado para executar e criar o projeto: https://vitejs.dev/guide/
-VSCode para melhor visualização do código: https://code.visualstudio.com/ 
-Google Chrome: https://www.google.com/intl/pt-BR/chrome/ 
-NodeJS para execução do projeto: https://nodejs.org/en/
+Vite, utilizado para executar e criar o projeto: https://vitejs.dev/guide/  
+VSCode para melhor visualização do código: https://code.visualstudio.com/   
+Google Chrome: https://www.google.com/intl/pt-BR/chrome/  
+NodeJS para execução do projeto: https://nodejs.org/en/  
 
 ### Como executar o projeto?
 Navegue até a pasta inicial do projeto e rode o comando para instalar as depêndências do projeto: 
